@@ -1,0 +1,29 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.pdb
+C:\Users\mohamed zidan\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe.config
+C:\Users\mohamed zidan\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.exe
+C:\Users\mohamed zidan\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.pdb
+C:\Users\mohamed zidan\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe
+C:\Users\mohamed zidan\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.pdb
+C:\Users\mohamed zidan\Documents\Visual Studio 2015\Projects\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe.config
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.exe
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.pdb
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.pdb
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe.config
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.exe
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.pdb
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.pdb
+C:\Users\lenovo\Desktop\SIC-XE_Assembler\SIC-XE_Assembler\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\sic2\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe.config
+C:\Users\lenovo\Desktop\sic2\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.exe
+C:\Users\lenovo\Desktop\sic2\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.pdb
+C:\Users\lenovo\Desktop\sic2\SIC-XE_Assembler\obj\Debug\SIC-XE_Assembler.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\sic2\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.exe
+C:\Users\lenovo\Desktop\sic2\SIC-XE_Assembler\bin\Debug\SIC-XE_Assembler.pdb
